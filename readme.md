@@ -13,7 +13,7 @@
 ### Controls:
 
 ESC = exit <br>
-Spasi = menu (change background color and object selection) <br>
+Space = menu (change background color and object selection) <br>
 <br>
 W, A, S, D = camera <br>
 mouse = camera <br>
